@@ -13,4 +13,4 @@ j) Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 ciklov. Pravi 
 
 # Komentar
 
-Mikroprocesor izvaja neprekinjene ADC pretvorbe z izbranim potenciometrom
+Mikroprocesor izvaja neprekinjene ADC pretvorbe z izbranim potenciometrom. Takšne pretvorbe so primerne za hitro in nenehno branje vhodne vrednosti
